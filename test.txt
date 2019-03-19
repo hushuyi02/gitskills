@@ -1,1 +1,2 @@
-Create so easy.
+Create a dev branch from origin
+Creating is so easy
